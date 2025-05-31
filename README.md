@@ -16,9 +16,9 @@ This application provides a sleek and intuitive interface to log your transactio
 
 ## 📸 Screenshots
 
-### Login Page
+### Login-SignUp Page
 A clean and welcoming login interface to access your personal finance dashboard.
-![Login Page](Auth_Page_ss.jpg)
+![Login-SignUp Page](Auth_Page_ss.png)
 
 ### Dashboard - Overview
 Your main financial overview, showing key metrics, recent transactions, and a balance distribution chart.
